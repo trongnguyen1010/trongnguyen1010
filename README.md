@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyenex 👋
 
-I am a Computer Science student at the Industrial University of Ho Chi Minh City (IUH). I am passionate about building practical products, from full-stack applications and Web3 integrations to AI data models and game development.
+I am a Computer Science student at the University. I am passionate about building practical products, from full-stack applications and Web3 integrations to AI data models and game development.
 
 ### 🚀 About Me
 - 🔭 Currently building: A comprehensive restaurant management system (Java/JavaFX) and exploring Web3 infrastructure.
@@ -24,4 +24,5 @@ I am a Computer Science student at the Industrial University of Ho Chi Minh City
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📈 GitHub Stats
-) trongnguyen1010
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trongnguyen1010&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trongnguyen1010&layout=compact&theme=radium)
