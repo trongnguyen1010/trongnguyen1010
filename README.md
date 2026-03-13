@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nguyenex 👋
 
 I am a Computer Science student at the Industrial University of Ho Chi Minh City (IUH). I am passionate about building practical products, from full-stack applications and Web3 integrations to AI data models and game development.
 
