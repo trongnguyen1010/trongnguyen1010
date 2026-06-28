@@ -4,7 +4,6 @@
 
 ### Computer Science Student | Full-Stack & Web3 & AI Developer
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrongnguyen1010&count_bg=%23007ACC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)
 
 </div>
 
