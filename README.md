@@ -1,9 +1,11 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi+👋%2C+I'm+Cao+Trong+Nguyen;Computer+Science+Student;Full-Stack+%26+Web3+Developer;AI+%26+Game+Developer)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi+👋%2C+I'm+Cao+Trong+Nguyen;Computer+Science+Student;Full-Stack+%26+Web3+Developer;AI+%26+Game+Developer" alt="Typing SVG" />
+</p>
 
 <h3 align="center">Computer Science Student | Full-Stack & Web3 & AI Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=trongnguyen1010&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrongnguyen1010&count_bg=%23007ACC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile views" />
 </p>
 
 - 📬 How to reach me: **caotrongnguyen9@gmail.com**
