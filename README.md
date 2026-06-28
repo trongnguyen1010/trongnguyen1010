@@ -1,26 +1,62 @@
-# Hi there, I'm Nguyenex 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+👋%2C+I'm+Trong+Nguyen;Computer+Science+Student;Full-Stack+%26+AI+Developer;Game+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-I am a Computer Science student at the University. I am passionate about building practical products, from full-stack applications and Web3 integrations to AI data models and game development.
+<h3 align="center">Computer Science Student | Full-Stack & Web3 & AI Developer</h3>
 
-### 🚀 About Me
-- 🔭 Currently building: A comprehensive restaurant management system (Java/JavaFX) and exploring Web3 infrastructure.
-- 🌱 Currently learning: Deepening my knowledge in **AI/Data Science** and **Smart Contracts**.
-- 🎮 Also tinkering with: 2D Game Development (Unity) and Hardware/IoT.
-- 📫 How to reach me: []
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=Nguyenex&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-### 💻 Tech Stack
+- 📬 How to reach me: **caotrongnguyen9@gmail.com**
+- 📄 Know about my experiences: www.linkedin.com/in/nguyenex-cao-453752316
+- ⚡ Fun fact: **I love building practical products that solve real-world problems!**
 
-**Frontend & Web:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-**Backend & Core Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/your-username" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/your-id" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-**Game, Tools & Hardware:**
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
+### Languages and Tools:
+<p align="left">
+  <!-- Hàng 1: Languages Core -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css" alt="Languages" />
+  <br><br>
+  <!-- Hàng 2: Frontend & Backend Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,express" alt="Frameworks" />
+  <br><br>
+  <!-- Hàng 3: Databases & Cloud Services -->
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" alt="Databases and Cloud" />
+  <br><br>
+  <!-- Hàng 4: Engines, Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=unity,git,github,vscode,postman" alt="Tools" />
+</p>
+
+<!-- Badges custom riêng cho các công nghệ không có trong skillicons -->
+<p align="left">
+  <img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyenex&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyenex&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyenex&theme=tokyonight" alt="GitHub Streak" />
+</p>
