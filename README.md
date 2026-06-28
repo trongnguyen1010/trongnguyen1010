@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi+👋%2C+I'm+Cao+Trong+Nguyen;Computer+Science+Student;Full-Stack+%26+Web3+ Developer;AI+%26+Game+Developer" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi+👋%2C+I'm+Cao+Trong+Nguyen;Computer+Science+Student;Full-Stack+%26+Web3+Developer;AI+%26+Game+Developer)
 
 <h3 align="center">Computer Science Student | Full-Stack & Web3 & AI Developer</h3>
 
@@ -17,10 +15,9 @@
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/nguyenex-cao-453752316" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/your-username" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.com/users/your-id" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://facebook.com/TronggNguyenn1010" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/nguyenex1010" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
